@@ -1,3 +1,3 @@
 # 3Dquadtree
-RUN THE PROJECT ONLINE HERE:
+To run the project Online:
 https://editor.p5js.org/
